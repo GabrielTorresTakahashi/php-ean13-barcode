@@ -12,7 +12,7 @@
     <?php
     include 'generatebarcode.php';
     $number = 590123412345;
-    generateBarcode($number)
+    generateBarcode($number);
     ?>
 
 </body>
